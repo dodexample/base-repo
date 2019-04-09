@@ -13,3 +13,7 @@ How I was able to merge coupled repo in preserving history:
   git push
   git log
 ```
+
+## Caveats
+
+Though the git log shows all the history (?), the subdirectory only shows the history of the last commit to that subdirectory
